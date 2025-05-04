@@ -131,8 +131,12 @@ body {
   height: 400px;
   margin: 150px;
   border-radius: 50%;
-  border: 2px solid rgb(175, 80, 234);
-  box-shadow: 0 0 35px rgb(181, 96, 234);
+  border: 2px solid #0ef;
+  box-shadow: 0 0 50px #0ef;
+}
+
+.my-image img:hover {
+  box-shadow: 0 0 80px #0ef;
 }
 
 .about {
@@ -147,12 +151,12 @@ body {
   height: 350px;
   margin: 150px;
   border-radius: 50%;
-  border: 2px solid rgb(175, 80, 234);
-  box-shadow: 0 0 35px rgb(181, 96, 234);
+  border: 2px solid #0ef;
+  box-shadow: 0 0 50px #0ef;
 }
 
 .about-img img:hover {
-  box-shadow: 0 0 50px rgb(181, 96, 234);
+  box-shadow: 0 0 80px #0ef;
 }
 
 .about-text h2 {
