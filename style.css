@@ -356,7 +356,7 @@ section {
 }
 
 .progress-line.Mongodb span {
-  width: 75%;
+  width: 40%;
 }
 
 .progress-line span::after {
@@ -385,7 +385,7 @@ section {
   content: "60%";
 }
 .progress-line.Mongodb span::after {
-  content: "75%";
+  content: "40%";
 }
 
 .progress-line span::before {
